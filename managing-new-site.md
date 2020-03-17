@@ -27,3 +27,6 @@ This AMI image will create a running ColdBox site for you. If you do not want a 
     ![Step 8](https://raw.githubusercontent.com/murpg/murpg.github.io/master/images/step8.png) 
 13.  Select your running instance. This will open some tabs at the bottom of the page. Select the "Description" tab. Look to the right on the description tab and look for "Public DNS (IPv4)." To the right of this text is the dns name. Copy that name and paste it in a browser. I should look something like this. ec2-{public_dns}.compute-1.amazonaws.com Paste that url in a browser and you should see the default
     ![Step 9](https://raw.githubusercontent.com/murpg/murpg.github.io/master/images/step9.png)
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/NoFLJLJ7abE" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
